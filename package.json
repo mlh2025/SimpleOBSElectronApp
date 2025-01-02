@@ -1,0 +1,16 @@
+{
+  "name": "simpleelectronapp",
+  "version": "1.0.0",
+  "description": "Quick Electron app to load OBS.",
+  "license": "ISC",
+  "author": "Michelle Hoyer",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
