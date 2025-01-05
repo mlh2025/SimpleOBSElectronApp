@@ -2,7 +2,7 @@
 #include <napi.h>
 
 //obs 
-#include "./libobs/obs.h"
+#include "obs.h"
 
 //OBS calls
 static Napi::String StartOBS(const Napi::CallbackInfo& info) 
